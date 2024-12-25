@@ -25,9 +25,9 @@ Sebenarnya, tidak ada cara khusus untuk menjalankan tugas ini. Karena apa? KAREN
 
 Kalau mau ta'aruf, boleh nih ada kontaknya:
 
-- Email: [muwaffaqfaqih@gmail.com]
-- WhatsApp: [wa.me/6281234567890]
-- Instagram: [@faqih.muw]
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282283370993)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faqih.muw)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muwaffaqfaqih@gmail.com)
 
 ## Penutup
 
