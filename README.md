@@ -8,6 +8,8 @@ Assalamu'alaikum Warahmatullahi Wabarakatuh! Saya M. Faqih Muwaffaq, seorang mah
 
 **Detail Akademik:**
 - **Nama Lengkap:** M. Faqih Muwaffaq
+- **Nama Panggilan:** Faqih
+- **Tempat Lahir:** Bangkinang, Riau
 - **NIM:** 220303018
 - **Semester:** 5
 - **Institusi:** UIN Ar-Raniry Banda Aceh
