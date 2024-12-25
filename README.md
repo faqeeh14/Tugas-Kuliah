@@ -4,7 +4,7 @@
 
 ## Tentang Saya
 
-Assalamu'alaikum! Saya M. Faqih Muwaffaq, seorang mahasiswa semester 5 di UIN Ar-Raniry Banda Aceh. Saat ini, saya sedang menempuh pendidikan di Program Studi Ilmu Al-Qur'an dan Tafsir.
+Assalamu'alaikum Warahmatullahi Wabarakatuh! Saya M. Faqih Muwaffaq, seorang mahasiswa semester 5 di UIN Ar-Raniry Banda Aceh. Saat ini, saya sedang menempuh pendidikan di Program Studi Ilmu Al-Qur'an dan Tafsir.
 
 **Detail Akademik:**
 - **Nama Lengkap:** M. Faqih Muwaffaq
@@ -15,23 +15,23 @@ Assalamu'alaikum! Saya M. Faqih Muwaffaq, seorang mahasiswa semester 5 di UIN Ar
 
 ## Tentang Repository Ini
 
-Repository ini dibuat sebagai pemenuhan Tugas Akhir Mata Kuliah BABIBU. Tugas yang diberikan adalah CACICU, dengan fokus pada... well, kegabutan saya dalam membuat file README ini! 😄
+Repository ini dibuat sebagai pemenuhan Tugas Akhir Mata Kuliah _"Isi sendiri, udah gede mandiri"_. Tugas yang diberikan adalah _"Beban seorang mahasiswa dan anak pertama"_, dengan fokus pada... well, kegabutan saya dalam membuat file README ini! AWOKAWOK
 
 ### Cara Menjalankan Tugas
 
-Sebenarnya, tidak ada cara khusus untuk menjalankan tugas ini. Ini lebih merupakan eksplorasi kreatif dalam membuat sebuah README yang menarik dan informatif.
+Sebenarnya, tidak ada cara khusus untuk menjalankan tugas ini. Karena apa? KARENA GABUT WOKAWOK.
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi saya melalui:
+Kalau mau ta'aruf, boleh nih ada kontaknya:
 
-- Email: [alamat email Anda]
-- LinkedIn: [profil LinkedIn Anda]
-- Instagram: [@username_instagram_anda]
+- Email: [muwaffaqfaqih@gmail.com]
+- WhatsApp: [wa.me/6281234567890]
+- Instagram: [@faqih.muw]
 
 ## Penutup
 
-Terima kasih telah mengunjungi repository saya. Semoga informasi yang ada di sini bermanfaat dan memberikan gambaran yang baik tentang saya dan tugas yang sedang saya kerjakan. Jangan lupa untuk terus belajar dan berkembang!
+Jazakumullah Khairan Jaza' udah berkunjung ya!. Semoga bermanfaat, Sukses selalu!
 
 ---
 
